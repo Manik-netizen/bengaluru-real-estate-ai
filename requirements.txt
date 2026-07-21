@@ -1,15 +1,15 @@
 # --- Web Framework ---
 # Streamlit is used to build the interactive 100% Python frontend UI.
-streamlit==1.32.0
+streamlit
 
 # --- Data Manipulation ---
 # Pandas is required to construct the exact DataFrame structure (columns/rows) for user inputs.
-pandas==2.1.4
+pandas
 
 # --- Numerical Operations ---
 # NumPy handles the underlying backend mathematical array calculations for the data.
-numpy==1.26.4
+numpy
 
 # --- Machine Learning Engine ---
 # Scikit-learn is absolutely crucial to unpickle and run our saved Ridge Regression model and StandardScaler.
-scikit-learn==1.3.2
+scikit-learn
